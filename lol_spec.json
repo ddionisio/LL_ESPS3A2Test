@@ -1,8 +1,8 @@
 {
-    "unity_version": "2022.3.50f1",
+    "unity_version": "2022.3.54f1",
     "lol_sdk_version": "5.4",
-    "build_dir_size": 22756122,
-    "build_uncompressed_dir_size": 22756122,
+    "build_dir_size": 22756144,
+    "build_uncompressed_dir_size": 22756144,
     "build_compression_format": "Disabled",
-    "streaming_assets_dir_size": 10303
+    "streaming_assets_dir_size": 9770
 }
